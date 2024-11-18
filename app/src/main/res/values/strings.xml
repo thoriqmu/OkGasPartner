@@ -5,10 +5,37 @@
     <string name="title_move">Pesanan Pindahan</string>
     <string name="title_history">Riwayat</string>
     <string name="title_profile">Profil</string>
-    <string name="welcome">Selamat Datang di</string>
+    <string name="detail_button">Detail</string>
+    <string name="welcome">Selamat Datang</string>
     <string name="welcome2">di OkGas Partner</string>
     <string name="description1">OkGas Partner adalah aplikasi yang dirancang untuk membantu Anda memberikan layanan terbaik kepada pelanggan dalam pengecekan kost dan jasa pindahan. Sebagai mitra, Anda akan mendapatkan kemudahan dalam menerima dan mengelola pesanan, melacak status layanan secara real-time, dan memberikan update langsung kepada pelanggan. Dengan fitur yang lengkap seperti notifikasi pesanan baru, laporan pendapatan, dan panduan detail untuk setiap tugas, aplikasi ini mendukung Anda bekerja lebih efisien dan terorganisir.</string>
     <string name="description2">Bergabung bersama OkGas berarti Anda menjadi bagian dari solusi mobilitas terpercaya di Kota Malang, sambil memperluas peluang untuk meningkatkan pendapatan dan kualitas layanan. Mari bersama-sama menciptakan pengalaman yang memuaskan bagi pelanggan dan menjadi mitra profesional yang handal!</string>
     <string name="service">Layanan OkGas</string>
+    <string name="service_name">Nama Layanan</string>
+    <string name="image_description">Gambar Layanan</string>
+    <string name="add_kost">Tambah</string>
+    <string name="add_kost_text">Tambahkan informasi kost baru dengan lengkap, termasuk nama, lokasi, foto, dan harga.</string>
+    <string name="order_search">Pesanan Pengecekan Kost Pelanggan</string>
+    <string name="order_created">Pesanan Dibuat</string>
+    <string name="order_date">Tanggal Cek</string>
+    <string name="order_kost_name">Nama Kost</string>
+    <string name="order_kost_location">Alamat Kos</string>
+    <string name="move_created">Pesanan Dibuat</string>
+    <string name="move_date">Tanggal Pindah</string>
+    <string name="move_location_start">Lokasi Awal</string>
+    <string name="move_location_end">Lokasi Tujuan</string>
+    <string name="add_kost_title">Tambah Kost</string>
+    <string name="add_name">Nama Kost</string>
+    <string name="add_location">Alamat Kost</string>
+    <string name="add_gender">Jenis Kost</string>
+    <string-array name="gender_array">
+        <item>Pilih Jenis Kost</item>
+        <item>Putra</item>
+        <item>Putri</item>
+    </string-array>
+    <string name="add_price">Harga Sewa</string>
+    <string name="add_description">Deskripsi</string>
+    <string name="image_button">Tambah Gambar</string>
+    <string name="add_button">Tambah Kost</string>
 
 </resources>
